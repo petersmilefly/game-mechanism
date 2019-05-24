@@ -7,8 +7,6 @@
   * [探讨游戏赢利机制](#探讨游戏赢利机制)
     + [1.死亡付费可不可行](#1死亡付费可不可行)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ## 创新玩法机制设计
 ###  1.怪物群体仇恨值
 * 野外怪物会有群体仇恨值，杀死一类怪物会聚集怪物仇恨值，同一类群对主角仇恨值到达某一定值会对主角发起主动攻击，且可能会有精英怪物出现，继续的话可能会有boss出现.etc...
