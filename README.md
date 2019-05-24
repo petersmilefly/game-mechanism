@@ -1,11 +1,11 @@
 # game-mechanism
 游戏机制设计
 - [game-mechanism](#game-mechanism)
-  * [创新玩法机制设计](#--------)
-    + [1.怪物群体仇恨值](#1-------)
-    + [2.2D与3D结合](#22d-3d--)
-  * [探讨游戏赢利机制](#--------)
-    + [1.死亡付费可不可行](#1--------)
+  * [创新玩法机制设计](#创新玩法机制设计)
+    + [1.怪物群体仇恨值](#1怪物群体仇恨值)
+    + [2.2D与3D结合](#22D与3D结合)
+  * [探讨游戏赢利机制](#探讨游戏赢利机制)
+    + [1.死亡付费可不可行](#1死亡付费可不可行)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
